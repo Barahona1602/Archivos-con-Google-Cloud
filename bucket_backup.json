@@ -1,0 +1,30 @@
+{
+    "Carpeta Ejemplo": {
+        "_files": [
+            {
+                "file_name": "nuevo_nombre1.txt",
+                "file_contents": "Se trata de habilitar uno o varios discos duros en una red local, de forma que los datos que all\u00ed se almacenen permanezcan accesibles a todos los dispositivos que quieran utilizarlos"
+            },
+            {
+                "file_name": "prueba1.txt",
+                "file_contents": "Un sistema de archivos es una estructura de directorios completa, que incluye un directorio ra\u00edz y cualquier subdirectorio y archivos por debajo suyo"
+            },
+            {
+                "file_name": "prueba2.txt",
+                "file_contents": "contenido archivo2"
+            }
+        ]
+    },
+    "carpeta1": {
+        "_files": [
+            {
+                "file_name": "nuevo_nombre1.txt",
+                "file_contents": "Este es el contenido del archivo2"
+            },
+            {
+                "file_name": "nuevo_nombre2.txt",
+                "file_contents": "Este es el contenido del archivo1"
+            }
+        ]
+    }
+}
